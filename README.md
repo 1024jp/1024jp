@@ -3,8 +3,8 @@
 
 - Hobby macOS developer/designer
 - Researcher, PhD in Human Sciences
-- Developer of [CotEditor](https://github.com/coteditor/) since 2014.
-- Organizer of the [macOS native](https://macos-native.github.io) study group.
+- Developer of [CotEditor](https://github.com/coteditor/)
+- Organizer of the [macOS native](https://macos-native.github.io) study group
 
 
 ## Interests
