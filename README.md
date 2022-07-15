@@ -1,16 +1,18 @@
-### Hi there 👋
+- Hobby macOS developer/designer
+- Researcher, PhD in Human Sciences
+- The developer of [CotEditor](https://github.com/coteditor/) since 2014.
+- The organizer of the [macOS native](https://macos-native.github.io) study group.
 
-<!--
-**1024jp/1024jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1024jp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- native macOS application design
+- AppKit, SwiftUI, TextKit
+
+
+## SNS
+
+- [Twitter @1024jp](https://twitter.com/1024jp) | [@1024de](https://twitter.com/1024de)
+- [Speaker Deck](https://speakerdeck.com/1024jp)
