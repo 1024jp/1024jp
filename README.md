@@ -11,6 +11,7 @@
 
 - native macOS application design
 - AppKit, SwiftUI, TextKit
+- icon drawing
 
 
 ## Works
