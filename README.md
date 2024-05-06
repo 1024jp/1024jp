@@ -21,7 +21,7 @@
 [<img src="img/Qli@2x.png" alt="Qli" width="128"/>](https://apps.apple.com/jp/app/qli/id1444572520?l=en&mt=12)
 
 
-## SNS
+## Social Media
 
 - Twitter: [@1024jp](https://twitter.com/1024jp) | [@1024de](https://twitter.com/1024de)
 - Speaker Deck: [@1024jp](https://speakerdeck.com/1024jp)
