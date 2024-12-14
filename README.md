@@ -4,7 +4,7 @@
 - Hobby macOS developer/designer
 - Researcher, PhD in Human Sciences
 - Developer of [CotEditor](https://github.com/coteditor/)
-- Organizer of the [macOS native](https://macos-native.github.io) study group
+- Organizer of the [macOS native](https://macos-native.github.io) community
 
 
 ## Interests
@@ -23,5 +23,5 @@
 
 ## Social Media
 
-- Twitter: [@1024jp](https://twitter.com/1024jp) | [@1024de](https://twitter.com/1024de)
+- X: [@1024jp](https://x.com/1024jp) | [@1024de](https://x.com/1024de)
 - Speaker Deck: [@1024jp](https://speakerdeck.com/1024jp)
